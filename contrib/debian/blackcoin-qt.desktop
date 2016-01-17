@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Radium
+Comment=Radium P2P Cryptocurrency
+Comment[fr]=Radium, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Radium, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Radium-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Radium;
+Categories=Office;

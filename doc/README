@@ -1,0 +1,16 @@
+Radium 0.4.5 BETA
+
+Copyright (c) 2015-2016 Project Radon
+Copyright (c) 2013 Blackcoin Developers
+Copyright (c) 2011-2012 PPCoin Developers
+Distributed under the MIT/X11 software license, see the accompanying
+file license.txt or http://www.opensource.org/licenses/mit-license.php.
+This product includes software developed by the OpenSSL Project for use in
+the OpenSSL Toolkit (http://www.openssl.org/).  This product includes
+cryptographic software written by Eric Young (eay@cryptsoft.com).
+
+
+Intro
+-----
+Radium is a free open source project derived from Bitcoin, with
+the goal of providing a fair distribution method and backbone for Project Radon.
