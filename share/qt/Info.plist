@@ -7,23 +7,23 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
-	<string>xRadon-Qt</string>
+	<string>Radium-Qt</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>xRadon-Qt</string>
+	<string>Radium-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>co.xRadon.xRadon-Qt</string>
+	<string>co.Radium.Radium-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>co.xRadon.xRadonPayment</string>
+            <string>co.Radium.RadiumPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>xRadon</string>
+              <string>Radium</string>
             </array>
           </dict>
         </array>

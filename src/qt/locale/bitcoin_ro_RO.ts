@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About xRadon</source>
-        <translation>Despre xRadon</translation>
+        <source>About Radium</source>
+        <translation>Despre Radium</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;xRadon&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;xRadon&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Radium&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;Radium&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The xRadon developers
-Copyright © 2015 The xRadon developers</source>
+Copyright © 2012-2014 The Radium developers
+Copyright © 2015 The Radium developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The xRadon developers
-Copyright © 2015 The xRadon developers</translation>
+Copyright © 2012-2014 The Radium developers
+Copyright © 2015 The Radium developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your xRadon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele xRadon pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your Radium addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele Radium pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a xRadon address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă xRadon</translation>
+        <source>Sign a message to prove you own a Radium address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Radium</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified xRadon address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă xRadon</translation>
+        <source>Verify a message to ensure it was signed with a specified Radium address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Radium</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>xRadon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>xRadon se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>Radium will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Radium se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about xRadon</source>
-        <translation>Arată informații despre xRadon</translation>
+        <source>Show information about Radium</source>
+        <translation>Arată informații despre Radium</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a xRadon address</source>
-        <translation>Trimite monede către o adresă xRadon</translation>
+        <source>Send coins to a Radium address</source>
+        <translation>Trimite monede către o adresă Radium</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for xRadon</source>
-        <translation>Modifică opțiuni de configurare pentru xRadon</translation>
+        <source>Modify configuration options for Radium</source>
+        <translation>Modifică opțiuni de configurare pentru Radium</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>xRadon</source>
-        <translation>xRadon</translation>
+        <source>Radium</source>
+        <translation>Radium</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About xRadon</source>
-        <translation>Despre xRadon</translation>
+        <source>&amp;About Radium</source>
+        <translation>Despre Radium</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>xRadon client</source>
-        <translation>Clientul xRadon</translation>
+        <source>Radium client</source>
+        <translation>Clientul Radium</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to xRadon network</source>
-        <translation><numerusform>%n conexiune activă la reteaua xRadon</numerusform><numerusform>%n conexiuni active la reteaua xRadon</numerusform><numerusform>%n conexiuni active la reteaua xRadon</numerusform></translation>
+        <source>%n active connection(s) to Radium network</source>
+        <translation><numerusform>%n conexiune activă la reteaua Radium</numerusform><numerusform>%n conexiuni active la reteaua Radium</numerusform><numerusform>%n conexiuni active la reteaua Radium</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid xRadon address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa xRadon invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Radium address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Radium invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. xRadon can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. xRadon nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. Radium can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. Radium nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid xRadon address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă xRadon validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Radium address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Radium validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>xRadon-Qt</source>
-        <translation>xRadon-Qt</translation>
+        <source>Radium-Qt</source>
+        <translation>Radium-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start xRadon after logging in to the system.</source>
-        <translation>Pornește xRadon imdiat după logarea în sistem</translation>
+        <source>Automatically start Radium after logging in to the system.</source>
+        <translation>Pornește Radium imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start xRadon on system login</source>
-        <translation>$Pornește xRadon la logarea în sistem</translation>
+        <source>&amp;Start Radium on system login</source>
+        <translation>$Pornește Radium la logarea în sistem</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the xRadon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul xRadon pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the Radium client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul Radium pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the xRadon network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua xRadon prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the Radium network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua Radium prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting xRadon.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea xRadon.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Radium.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Radium.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting xRadon.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea xRadon.</translation>
+        <source>This setting will take effect after restarting Radium.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea Radium.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the xRadon network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua xRadon după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Radium network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Radium după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1409,7 +1409,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start xRadon: click-to-pay handler</source>
+        <source>Cannot start Radium: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1577,8 +1577,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the xRadon-Qt help message to get a list with possible xRadon command-line options.</source>
-        <translation>Afișa mesajul de ajutor xRadon-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă xRadon.</translation>
+        <source>Show the Radium-Qt help message to get a list with possible Radium command-line options.</source>
+        <translation>Afișa mesajul de ajutor Radium-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Radium.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>xRadon - Debug window</source>
-        <translation>xRadon - fereastră depanare</translation>
+        <source>Radium - Debug window</source>
+        <translation>Radium - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>xRadon Core</source>
-        <translation>xRadon Core</translation>
+        <source>Radium Core</source>
+        <translation>Radium Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the xRadon debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare xRadon din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the Radium debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare Radium din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the xRadon RPC console.</source>
-        <translation>Bine ati venit la consola xRadon RPC.</translation>
+        <source>Welcome to the Radium RPC console.</source>
+        <translation>Bine ati venit la consola Radium RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,8 +1816,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a xRadon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă xRadon(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Radium(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid xRadon address</source>
-        <translation>Atenție: Adresă xRadon invalidă</translation>
+        <source>WARNING: Invalid Radium address</source>
+        <translation>Atenție: Adresă Radium invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1990,8 +1990,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a xRadon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă xRadon(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Radium(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2051,8 +2051,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this xRadon address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă xRadon</translation>
+        <source>Sign the message to prove you own this Radium address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Radium</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2083,8 +2083,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified xRadon address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă xRadon</translation>
+        <source>Verify the message to ensure it was signed with the specified Radium address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Radium</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a xRadon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă xRadon(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă Radium(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter xRadon signature</source>
-        <translation>Introduceti semnatura xRadon</translation>
+        <source>Enter Radium signature</source>
+        <translation>Introduceti semnatura Radium</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>xRadon version</source>
-        <translation>Versiune xRadon</translation>
+        <source>Radium version</source>
+        <translation>Versiune Radium</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2693,8 +2693,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or xRadond</source>
-        <translation>Trimite comanda catre server sau xRadond</translation>
+        <source>Send command to -server or Radiumd</source>
+        <translation>Trimite comanda catre server sau Radiumd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2713,13 +2713,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: xRadon.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: xRadon.conf)</translation>
+        <source>Specify configuration file (default: Radium.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: Radium.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: xRadond.pid)</source>
-        <translation>Speficica fisier pid(implicit: xRadon.pid)</translation>
+        <source>Specify pid file (default: Radiumd.pid)</source>
+        <translation>Speficica fisier pid(implicit: Radium.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2736,13 +2736,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=xRadonrpc
+rpcuser=Radiumrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2848,8 +2848,8 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong xRadon will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit xRadon nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Radium will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Radium nu va functiona corect.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3155,7 +3155,7 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. xRadon is shutting down.</source>
+        <source>Initialization sanity check failed. Radium is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3220,13 +3220,13 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of xRadon</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de xRadon</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Radium</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Radium</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart xRadon to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați xRadon pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart Radium to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați Radium pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3290,8 +3290,8 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. xRadon is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil xRadon ruleaza</translation>
+        <source>Unable to bind to %s on this computer. Radium is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Radium ruleaza</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3330,7 +3330,7 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. xRadon is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Radium is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

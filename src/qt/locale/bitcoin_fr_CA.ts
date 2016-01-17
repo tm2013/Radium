@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About xRadon</source>
-        <translation>Au sujet de xRadon</translation>
+        <source>About Radium</source>
+        <translation>Au sujet de Radium</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;xRadon&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;xRadon&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Radium&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;Radium&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The xRadon developers
-Copyright © 2015 The xRadon developers</source>
+Copyright © 2012-2014 The Radium developers
+Copyright © 2015 The Radium developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
-Copyright © 2012-2014 Les développeurs xRadon
-Copyright © 2014 Les développeurs xRadon</translation>
+Copyright © 2012-2014 Les développeurs Radium
+Copyright © 2014 Les développeurs Radium</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,7 +60,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your xRadon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Radium addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a xRadon address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse xRadon</translation>
+        <source>Sign a message to prove you own a Radium address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse Radium</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified xRadon address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse xRadon spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified Radium address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Radium spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -227,7 +227,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>ATTENTION : Si vous cryptez votre portefeuille et perdez votre passphrase, vous ne pourrez plus accéder à vos xRadons</translation>
+        <translation>ATTENTION : Si vous cryptez votre portefeuille et perdez votre passphrase, vous ne pourrez plus accéder à vos Radiums</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>xRadon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application xRadon va désormais se terminer afin de finaliser le processus de cryptage. Merci de noter que le cryptage du portefeuille ne garantit pas de se prémunir du vol via l&apos;utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>Radium will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application Radium va désormais se terminer afin de finaliser le processus de cryptage. Merci de noter que le cryptage du portefeuille ne garantit pas de se prémunir du vol via l&apos;utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about xRadon</source>
-        <translation>Afficher des informations au sujet du xRadon</translation>
+        <source>Show information about Radium</source>
+        <translation>Afficher des informations au sujet du Radium</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a xRadon address</source>
-        <translation>Envoyer des monnaies vers une adresse xRadon</translation>
+        <source>Send coins to a Radium address</source>
+        <translation>Envoyer des monnaies vers une adresse Radium</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for xRadon</source>
-        <translation>Modification des options de configuration de xRadon</translation>
+        <source>Modify configuration options for Radium</source>
+        <translation>Modification des options de configuration de Radium</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>xRadon</source>
-        <translation>xRadon</translation>
+        <source>Radium</source>
+        <translation>Radium</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About xRadon</source>
-        <translation>A propos de xRadon</translation>
+        <source>&amp;About Radium</source>
+        <translation>A propos de Radium</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>xRadon client</source>
-        <translation>Client xRadon</translation>
+        <source>Radium client</source>
+        <translation>Client Radium</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to xRadon network</source>
-        <translation><numerusform>%n connexion active au réseau xRadon</numerusform><numerusform>%n connexions actives au réseau xRadon</numerusform></translation>
+        <source>%n active connection(s) to Radium network</source>
+        <translation><numerusform>%n connexion active au réseau Radium</numerusform><numerusform>%n connexions actives au réseau Radium</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid xRadon address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille xRadon n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Radium address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille Radium n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. xRadon can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application xRadon ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
+        <source>A fatal error occurred. Radium can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application Radium ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid xRadon address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse xRadon valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Radium address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse Radium valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>xRadon-Qt</source>
-        <translation>xRadon-Qt</translation>
+        <source>Radium-Qt</source>
+        <translation>Radium-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start xRadon after logging in to the system.</source>
-        <translation>Démarrage automatique du client xRadon lors de la connexion au système</translation>
+        <source>Automatically start Radium after logging in to the system.</source>
+        <translation>Démarrage automatique du client Radium lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start xRadon on system login</source>
-        <translation>&amp;Démarrage du client xRadon à la connexion au système</translation>
+        <source>&amp;Start Radium on system login</source>
+        <translation>&amp;Démarrage du client Radium à la connexion au système</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the xRadon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouverture automatique du port client de xRadon sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the Radium client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouverture automatique du port client de Radium sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the xRadon network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau xRadon à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
+        <source>Connect to the Radium network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau Radium à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting xRadon.</source>
-        <translation>La langue d&apos;interface de de l&apos;utilisateur peut être définie ici. Ces modification seront effectives après redémarrage de l&apos;application xRadon</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Radium.</source>
+        <translation>La langue d&apos;interface de de l&apos;utilisateur peut être définie ici. Ces modification seront effectives après redémarrage de l&apos;application Radium</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting xRadon.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client xRadon</translation>
+        <source>This setting will take effect after restarting Radium.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client Radium</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the xRadon network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau xRadon mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Radium network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau Radium mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1409,7 +1409,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start xRadon: click-to-pay handler</source>
+        <source>Cannot start Radium: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1577,8 +1577,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the xRadon-Qt help message to get a list with possible xRadon command-line options.</source>
-        <translation>Afficher le message d&apos;aide xRadon-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande xRadon</translation>
+        <source>Show the Radium-Qt help message to get a list with possible Radium command-line options.</source>
+        <translation>Afficher le message d&apos;aide Radium-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande Radium</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-104"/>
-        <source>xRadon - Debug window</source>
-        <translation>xRadon - Fenêtre de déboggage</translation>
+        <source>Radium - Debug window</source>
+        <translation>Radium - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>xRadon Core</source>
-        <translation>xRadon Core</translation>
+        <source>Radium Core</source>
+        <translation>Radium Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the xRadon debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug xRadon au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the Radium debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug Radium au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the xRadon RPC console.</source>
-        <translation>Bienvenue sur la console xRadon RPC.</translation>
+        <source>Welcome to the Radium RPC console.</source>
+        <translation>Bienvenue sur la console Radium RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,8 +1816,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a xRadon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse xRadon (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Radium (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid xRadon address</source>
-        <translation>AVERTISSEMENT: Adresse xRadon Invalide</translation>
+        <source>WARNING: Invalid Radium address</source>
+        <translation>AVERTISSEMENT: Adresse Radium Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1927,7 +1927,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMET: Adresse xRadon Invalide</translation>
+        <translation>AVERTISSEMET: Adresse Radium Invalide</translation>
     </message>
 </context>
 <context>
@@ -1990,8 +1990,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a xRadon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse xRadon (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Radium (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2015,7 +2015,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse xRadon (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <translation>Entrer une adresse Radium (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2051,8 +2051,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this xRadon address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse xRadon</translation>
+        <source>Sign the message to prove you own this Radium address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse Radium</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2083,8 +2083,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified xRadon address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse xRadon spécifique.</translation>
+        <source>Verify the message to ensure it was signed with the specified Radium address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Radium spécifique.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a xRadon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse xRadon (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse Radium (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter xRadon signature</source>
-        <translation>Entrer une signature xRadon</translation>
+        <source>Enter Radium signature</source>
+        <translation>Entrer une signature Radium</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>xRadon version</source>
-        <translation>Version xRadon</translation>
+        <source>Radium version</source>
+        <translation>Version Radium</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2693,8 +2693,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or xRadond</source>
-        <translation>Envoyer commande à -server ou xRadond</translation>
+        <source>Send command to -server or Radiumd</source>
+        <translation>Envoyer commande à -server ou Radiumd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2713,13 +2713,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: xRadon.conf)</source>
-        <translation>Spécifier le fichier de configuration (defaut: xRadon.conf)</translation>
+        <source>Specify configuration file (default: Radium.conf)</source>
+        <translation>Spécifier le fichier de configuration (defaut: Radium.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: xRadond.pid)</source>
-        <translation>Spécifier le fichier pid (defaut: xRadond.pid)
+        <source>Specify pid file (default: Radiumd.pid)</source>
+        <translation>Spécifier le fichier pid (defaut: Radiumd.pid)
 </translation>
     </message>
     <message>
@@ -2737,13 +2737,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=xRadonrpc
+rpcuser=Radiumrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2849,8 +2849,8 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong xRadon will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. xRadon ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Radium will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. Radium ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3156,7 +3156,7 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. xRadon is shutting down.</source>
+        <source>Initialization sanity check failed. Radium is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3221,13 +3221,13 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of xRadon</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application xRadon</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Radium</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application Radium</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart xRadon to complete</source>
-        <translation>le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application xRadon</translation>
+        <source>Wallet needed to be rewritten: restart Radium to complete</source>
+        <translation>le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application Radium</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3291,8 +3291,8 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. xRadon is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application xRadon est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. Radium is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application Radium est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3331,7 +3331,7 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. xRadon is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Radium is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

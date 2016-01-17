@@ -1,2 +1,2 @@
-debian/bin/xRadond usr/bin
-src/xRadond usr/lib/xRadon
+debian/bin/Radiumd usr/bin
+src/Radiumd usr/lib/Radium

@@ -5,29 +5,29 @@
 #build/bitcoind::
 #	$(if $(filter nocheck,$(DEB_BUILD_OPTIONS)),,src/test_bitcoin)
 
-DEB_INSTALL_EXAMPLES_xRadond += debian/examples/*
-DEB_INSTALL_MANPAGES_xRadond += debian/manpages/*
+DEB_INSTALL_EXAMPLES_Radiumd += debian/examples/*
+DEB_INSTALL_MANPAGES_Radiumd += debian/manpages/*
 
 %:
 	dh --with bash-completion $@
 
 override_dh_auto_build:
-	cd src; $(MAKE) -f makefile.unix xRadond
+	cd src; $(MAKE) -f makefile.unix Radiumd
 	$(MAKE)
 
 override_dh_auto_clean:
-	if [ -f Makefile ]; then $(MAKE) clean; else rm -rf build/; rm -f xRadon-qt; fi
+	if [ -f Makefile ]; then $(MAKE) clean; else rm -rf build/; rm -f Radium-qt; fi
 	cd src; $(MAKE) -f makefile.unix clean
 
 override_dh_auto_configure:
-	qmake xRadon-qt.pro USE_QRCODE=1
+	qmake Radium-qt.pro USE_QRCODE=1
 
 override_dh_auto_test:
-	cd src; $(MAKE) -f makefile.unix test_xRadon
-	src/test_xRadon
+	cd src; $(MAKE) -f makefile.unix test_Radium
+	src/test_Radium
 
 # Ensure wrapper is set executable
-binary-post-install/xRadond:
-	chmod +x $(cdbs_curdestdir)usr/bin/xRadond
-binary-post-install/xRadon-qt:
-	chmod +x $(cdbs_curdestdir)usr/bin/xRadon-qt
+binary-post-install/Radiumd:
+	chmod +x $(cdbs_curdestdir)usr/bin/Radiumd
+binary-post-install/Radium-qt:
+	chmod +x $(cdbs_curdestdir)usr/bin/Radium-qt

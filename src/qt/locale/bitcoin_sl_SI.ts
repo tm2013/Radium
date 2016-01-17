@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About xRadon</source>
-        <translation>O xRadon</translation>
+        <source>About Radium</source>
+        <translation>O Radium</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;xRadon&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;xRadon&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;Radium&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Radium&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The xRadon developers
-Copyright © 2015 The xRadon developers</source>
+Copyright © 2012-2014 The Radium developers
+Copyright © 2015 The Radium developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -58,8 +58,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your xRadon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši xRadon naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your Radium addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši Radium naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -73,8 +73,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a xRadon address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva xRadon naslova</translation>
+        <source>Sign a message to prove you own a Radium address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Radium naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -88,8 +88,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified xRadon address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim xRadon naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified Radium address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim Radium naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -256,8 +256,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>xRadon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>xRadon se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>Radium will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Radium se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -350,8 +350,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about xRadon</source>
-        <translation>Pokaži informacije o xRadon</translation>
+        <source>Show information about Radium</source>
+        <translation>Pokaži informacije o Radium</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -390,13 +390,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a xRadon address</source>
-        <translation>Pošlji kovance na xRadon naslov</translation>
+        <source>Send coins to a Radium address</source>
+        <translation>Pošlji kovance na Radium naslov</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for xRadon</source>
-        <translation>Spremeni nastavitve za xRadon</translation>
+        <source>Modify configuration options for Radium</source>
+        <translation>Spremeni nastavitve za Radium</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -436,8 +436,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>xRadon</source>
-        <translation>xRadon</translation>
+        <source>Radium</source>
+        <translation>Radium</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -446,8 +446,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About xRadon</source>
-        <translation>&amp;O xRadon</translation>
+        <source>&amp;About Radium</source>
+        <translation>&amp;O Radium</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -498,13 +498,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>xRadon client</source>
-        <translation>xRadon program</translation>
+        <source>Radium client</source>
+        <translation>Radium program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to xRadon network</source>
-        <translation><numerusform>%n aktivne povezave na xRadon omrežje</numerusform><numerusform>%n aktivnih povezav na xRadon omrežje</numerusform><numerusform>%n aktivnih povezav na xRadon omrežje</numerusform><numerusform>%n aktivnih povezav na xRadon omrežje</numerusform></translation>
+        <source>%n active connection(s) to Radium network</source>
+        <translation><numerusform>%n aktivne povezave na Radium omrežje</numerusform><numerusform>%n aktivnih povezav na Radium omrežje</numerusform><numerusform>%n aktivnih povezav na Radium omrežje</numerusform><numerusform>%n aktivnih povezav na Radium omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -598,8 +598,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid xRadon address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega xRadon naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Radium address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega Radium naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -721,8 +721,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. xRadon can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program xRadon se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. Radium can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program Radium se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1055,8 +1055,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid xRadon address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven xRadon naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Radium address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven Radium naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1074,8 +1074,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>xRadon-Qt</source>
-        <translation>xRadon-Qt</translation>
+        <source>Radium-Qt</source>
+        <translation>Radium-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1147,13 +1147,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start xRadon after logging in to the system.</source>
-        <translation>Avtomatično zaženi xRadon ob zagonu sistema.</translation>
+        <source>Automatically start Radium after logging in to the system.</source>
+        <translation>Avtomatično zaženi Radium ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start xRadon on system login</source>
-        <translation>&amp;Zaženi xRadon ob prijavi v sistem</translation>
+        <source>&amp;Start Radium on system login</source>
+        <translation>&amp;Zaženi Radium ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1162,8 +1162,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the xRadon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za xRadon program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the Radium client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za Radium program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1172,8 +1172,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the xRadon network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na xRadon omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the Radium network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na Radium omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1247,8 +1247,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting xRadon.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu xRadon aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Radium.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu Radium aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1314,8 +1314,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting xRadon.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu xRadon aplikacije</translation>
+        <source>This setting will take effect after restarting Radium.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu Radium aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1333,8 +1333,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the xRadon network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z xRadon omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Radium network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z Radium omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1407,7 +1407,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start xRadon: click-to-pay handler</source>
+        <source>Cannot start Radium: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1575,8 +1575,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the xRadon-Qt help message to get a list with possible xRadon command-line options.</source>
-        <translation>Prikaži xRadon-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice xRadon aplikacije</translation>
+        <source>Show the Radium-Qt help message to get a list with possible Radium command-line options.</source>
+        <translation>Prikaži Radium-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice Radium aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1595,13 +1595,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>xRadon - Debug window</source>
-        <translation>xRadon - okno za odpravljanje napak</translation>
+        <source>Radium - Debug window</source>
+        <translation>Radium - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>xRadon Core</source>
-        <translation>xRadon jedro</translation>
+        <source>Radium Core</source>
+        <translation>Radium jedro</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1610,8 +1610,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the xRadon debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri xRadon datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the Radium debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri Radium datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1620,8 +1620,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the xRadon RPC console.</source>
-        <translation>Dobrodošli v xRadon RPC konzoli.</translation>
+        <source>Welcome to the Radium RPC console.</source>
+        <translation>Dobrodošli v Radium RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1814,8 +1814,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a xRadon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite xRadon naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Radium naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1914,8 +1914,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid xRadon address</source>
-        <translation>OPOZORILO: Neveljaven xRadon naslov</translation>
+        <source>WARNING: Invalid Radium address</source>
+        <translation>OPOZORILO: Neveljaven Radium naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1988,8 +1988,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a xRadon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite xRadon naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Radium naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2049,8 +2049,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this xRadon address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva xRadon naslova</translation>
+        <source>Sign the message to prove you own this Radium address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Radium naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2081,8 +2081,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified xRadon address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim xRadon naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified Radium address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim Radium naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2092,8 +2092,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a xRadon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite xRadon naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite Radium naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2102,8 +2102,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter xRadon signature</source>
-        <translation>Vnesite xRadon podpis</translation>
+        <source>Enter Radium signature</source>
+        <translation>Vnesite Radium podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2681,8 +2681,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>xRadon version</source>
-        <translation>xRadon različica</translation>
+        <source>Radium version</source>
+        <translation>Radium različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2691,7 +2691,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or xRadond</source>
+        <source>Send command to -server or Radiumd</source>
         <translation>Pošlji ukaz na -server ali blackoind</translation>
     </message>
     <message>
@@ -2711,13 +2711,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: xRadon.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: xRadon.conf)</translation>
+        <source>Specify configuration file (default: Radium.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: Radium.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: xRadond.pid)</source>
-        <translation>Določi pid datoteko (privzeto: xRadon.pid)</translation>
+        <source>Specify pid file (default: Radiumd.pid)</source>
+        <translation>Določi pid datoteko (privzeto: Radium.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2734,13 +2734,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=xRadonrpc
+rpcuser=Radiumrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2846,8 +2846,8 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong xRadon will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno xRadon ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Radium will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno Radium ne bo deloval.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3153,7 +3153,7 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. xRadon is shutting down.</source>
+        <source>Initialization sanity check failed. Radium is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3218,13 +3218,13 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of xRadon</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo xRadon</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Radium</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo Radium</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart xRadon to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite xRadon za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart Radium to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite Radium za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3288,8 +3288,8 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. xRadon is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča xRadon aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. Radium is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča Radium aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3328,7 +3328,7 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. xRadon is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Radium is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About xRadon</source>
-        <translation>Tentang xRadon</translation>
+        <source>About Radium</source>
+        <translation>Tentang Radium</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;xRadon&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;xRadon&lt;/b&gt; versi</translation>
+        <source>&lt;b&gt;Radium&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Radium&lt;/b&gt; versi</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The xRadon developers
-Copyright © 2015 The xRadon developers</source>
+Copyright © 2012-2014 The Radium developers
+Copyright © 2015 The Radium developers</source>
         <translation>Copyright © 2009-2014 para pengembang Bitcoin
-Copyright © 2012-2014 para pengembang xRadon
-Copyright © 2014 para pengembang xRadon</translation>
+Copyright © 2012-2014 para pengembang Radium
+Copyright © 2014 para pengembang Radium</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your xRadon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ini adalah alamat xRadon Anda untuk menerima pembayaran. Anda dapat memberikan alamat yang berbeda untuk setiap pengirim, sehingga Anda dapat melacak siapa yang membayar Anda.</translation>
+        <source>These are your Radium addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Ini adalah alamat Radium Anda untuk menerima pembayaran. Anda dapat memberikan alamat yang berbeda untuk setiap pengirim, sehingga Anda dapat melacak siapa yang membayar Anda.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a xRadon address</source>
-        <translation>Masukan  pesan untuk membuktikan bahwa anda telah mempunyai adress xRadon</translation>
+        <source>Sign a message to prove you own a Radium address</source>
+        <translation>Masukan  pesan untuk membuktikan bahwa anda telah mempunyai adress Radium</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,7 +90,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified xRadon address</source>
+        <source>Verify a message to ensure it was signed with a specified Radium address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>xRadon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>xRadon akan ditutup untuk menyelesaikan proses enkripsi. Ingat bahwa dompet Anda tidak bisa di lindungi dengan enkripsi sepenuhny dari pencurian melalui infeksi malware di komputer Anda.</translation>
+        <source>Radium will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Radium akan ditutup untuk menyelesaikan proses enkripsi. Ingat bahwa dompet Anda tidak bisa di lindungi dengan enkripsi sepenuhny dari pencurian melalui infeksi malware di komputer Anda.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about xRadon</source>
-        <translation>Tunjukkan informasi tentang xRadon</translation>
+        <source>Show information about Radium</source>
+        <translation>Tunjukkan informasi tentang Radium</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a xRadon address</source>
-        <translation>Kirim koin ke alamat xRadon</translation>
+        <source>Send coins to a Radium address</source>
+        <translation>Kirim koin ke alamat Radium</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for xRadon</source>
-        <translation>Memodifikasi opsi aturan untuk xRadon</translation>
+        <source>Modify configuration options for Radium</source>
+        <translation>Memodifikasi opsi aturan untuk Radium</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>xRadon</source>
-        <translation>xRadon (CoinHitam)</translation>
+        <source>Radium</source>
+        <translation>Radium (CoinHitam)</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About xRadon</source>
-        <translation>&amp;Tentang xRadon</translation>
+        <source>&amp;About Radium</source>
+        <translation>&amp;Tentang Radium</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,12 +500,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>xRadon client</source>
-        <translation>Klien xRadon</translation>
+        <source>Radium client</source>
+        <translation>Klien Radium</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to xRadon network</source>
+        <source>%n active connection(s) to Radium network</source>
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
@@ -600,7 +600,7 @@ Alamat: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid xRadon address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Radium address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -723,7 +723,7 @@ Alamat: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. xRadon can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Radium can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1043,7 +1043,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid xRadon address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Radium address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1062,8 +1062,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>xRadon-Qt</source>
-        <translation>xRadon-Qt</translation>
+        <source>Radium-Qt</source>
+        <translation>Radium-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1135,12 +1135,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start xRadon after logging in to the system.</source>
+        <source>Automatically start Radium after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start xRadon on system login</source>
+        <source>&amp;Start Radium on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1150,7 +1150,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the xRadon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Radium client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1160,7 +1160,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the xRadon network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Radium network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1235,7 +1235,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting xRadon.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Radium.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1302,7 +1302,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting xRadon.</source>
+        <source>This setting will take effect after restarting Radium.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1321,7 +1321,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the xRadon network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Radium network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1395,7 +1395,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start xRadon: click-to-pay handler</source>
+        <source>Cannot start Radium: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1563,7 +1563,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the xRadon-Qt help message to get a list with possible xRadon command-line options.</source>
+        <source>Show the Radium-Qt help message to get a list with possible Radium command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1583,13 +1583,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>xRadon - Debug window</source>
+        <source>Radium - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>xRadon Core</source>
-        <translation>Inti xRadon</translation>
+        <source>Radium Core</source>
+        <translation>Inti Radium</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1598,7 +1598,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the xRadon debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Radium debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1608,7 +1608,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the xRadon RPC console.</source>
+        <source>Welcome to the Radium RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1802,7 +1802,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a xRadon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1902,7 +1902,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid xRadon address</source>
+        <source>WARNING: Invalid Radium address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1976,7 +1976,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a xRadon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2037,7 +2037,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this xRadon address</source>
+        <source>Sign the message to prove you own this Radium address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2069,7 +2069,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified xRadon address</source>
+        <source>Verify the message to ensure it was signed with the specified Radium address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2080,7 +2080,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a xRadon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2090,7 +2090,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter xRadon signature</source>
+        <source>Enter Radium signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2669,7 +2669,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>xRadon version</source>
+        <source>Radium version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2679,7 +2679,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or xRadond</source>
+        <source>Send command to -server or Radiumd</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2699,12 +2699,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: xRadon.conf)</source>
+        <source>Specify configuration file (default: Radium.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: xRadond.pid)</source>
+        <source>Specify pid file (default: Radiumd.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2722,13 +2722,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=xRadonrpc
+rpcuser=Radiumrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2834,7 +2834,7 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong xRadon will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Radium will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3140,7 +3140,7 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. xRadon is shutting down.</source>
+        <source>Initialization sanity check failed. Radium is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3205,12 +3205,12 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of xRadon</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Radium</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart xRadon to complete</source>
+        <source>Wallet needed to be rewritten: restart Radium to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3275,7 +3275,7 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. xRadon is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Radium is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3315,7 +3315,7 @@ for example: alertnotify=echo %%s | mail -s &quot;xRadon Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. xRadon is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Radium is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
