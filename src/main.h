@@ -55,6 +55,7 @@ static const int64_t COIN_YEAR_REWARD = 0 * CENT; // not used per year
 static const int MODIFIER_INTERVAL_SWITCH = 2880;
 
 inline bool IsProtocolVCurrent(int nHeight) { return TestNet() || nHeight > 20160; }
+inline bool IsProtocolV3(int nHeight) { return TestNet() || nHeight > 370000; }
 
 inline int64_t FutureDriftVusually(int64_t nTime) { return nTime + 10 * 60; }
 inline int64_t FutureDriftVCurrent(int64_t nTime) { return nTime + 2 * 60; }
