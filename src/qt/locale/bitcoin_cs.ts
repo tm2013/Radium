@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Radium</source>
-        <translation>O Radiumu</translation>
+        <source>About radium</source>
+        <translation>O radiumu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Radium&lt;/b&gt; version</source>
-        <translation>Verze &lt;b&gt;Radiumu&lt;/b&gt; </translation>
+        <source>&lt;b&gt;radium&lt;/b&gt; version</source>
+        <translation>Verze &lt;b&gt;radiumu&lt;/b&gt; </translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The Radium developers
-Copyright © 2015 The Radium developers</source>
+Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2014 The radium developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The Radium developers
-Copyright © 2015 The Radium developers</translation>
+Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2014 The radium developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Radium addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tato jsou tvé Radium adresy pro příjem plateb. Každému odesílateli můžeš dát jinou adresu, aby jsi mohl sledovat, kdo ti platí.</translation>
+        <source>These are your radium addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tato jsou tvé radium adresy pro příjem plateb. Každému odesílateli můžeš dát jinou adresu, aby jsi mohl sledovat, kdo ti platí.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Radium address</source>
-        <translation>Podepiš zprávu, aby jsi dokázal, že vlastníš tuto Radium adresu.</translation>
+        <source>Sign a message to prove you own a radium address</source>
+        <translation>Podepiš zprávu, aby jsi dokázal, že vlastníš tuto radium adresu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Radium address</source>
-        <translation>Ověř zprávu, aby jsi zajistil, že byla podepsaná určitou Radium adresou.</translation>
+        <source>Verify a message to ensure it was signed with a specified radium address</source>
+        <translation>Ověř zprávu, aby jsi zajistil, že byla podepsaná určitou radium adresou.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -104,17 +104,17 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Smaž</translation>
     </message>
     <message>
-        <location filename="../addressbookpage.cpp" line="+65"/>
+        <location filename="../addressbookpage.cpp" line="+66"/>
         <source>Copy &amp;Label</source>
         <translation>Kopíruj &amp;označení</translation>
     </message>
     <message>
-        <location line="+2"/>
+        <location line="+1"/>
         <source>&amp;Edit</source>
         <translation>&amp;Uprav</translation>
     </message>
     <message>
-        <location line="+250"/>
+        <location line="+248"/>
         <source>Export Address Book Data</source>
         <translation>Exportovat Data z Knihy Adres</translation>
     </message>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Radium will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Pro dokončení procesu šifrování se Radium nyní zavře, Pamatuj, že zašifrování tvé peněženky nemůže plně ochránit tvé mince před krádeží, pokud máš počítač infikován malwerem.</translation>
+        <source>radium will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Pro dokončení procesu šifrování se radium nyní zavře, Pamatuj, že zašifrování tvé peněženky nemůže plně ochránit tvé mince před krádeží, pokud máš počítač infikován malwerem.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Radium</source>
-        <translation>Zobraz informace a Radiumu</translation>
+        <source>Show information about radium</source>
+        <translation>Zobraz informace a radiumu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Radium address</source>
-        <translation>Odešli mince na Radium adresu</translation>
+        <source>Send coins to a radium address</source>
+        <translation>Odešli mince na radium adresu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Radium</source>
-        <translation>Uprav možnosti konfigurace pro Radium</translation>
+        <source>Modify configuration options for radium</source>
+        <translation>Uprav možnosti konfigurace pro radium</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -437,19 +437,19 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-214"/>
-        <location line="+551"/>
-        <source>Radium</source>
-        <translation>Radium</translation>
+        <location line="+555"/>
+        <source>radium</source>
+        <translation>radium</translation>
     </message>
     <message>
-        <location line="-551"/>
+        <location line="-555"/>
         <source>Wallet</source>
         <translation>Peněženka</translation>
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Radium</source>
-        <translation>&amp;O Radiumu</translation>
+        <source>&amp;About radium</source>
+        <translation>&amp;O radiumu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -472,7 +472,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Zamkni peněženku</translation>
     </message>
     <message>
-        <location line="+28"/>
+        <location line="+32"/>
         <source>&amp;File</source>
         <translation>&amp;Soubor</translation>
     </message>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Radium client</source>
-        <translation>Radium klient</translation>
+        <source>radium client</source>
+        <translation>radium klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Radium network</source>
-        <translation><numerusform>%n aktivní spojení do Radium sítě</numerusform><numerusform>%n aktivních spojení do Radium sítě</numerusform><numerusform>%n aktivních spojení do Radium sítě</numerusform></translation>
+        <source>%n active connection(s) to radium network</source>
+        <translation><numerusform>%n aktivní spojení do radium sítě</numerusform><numerusform>%n aktivních spojení do radium sítě</numerusform><numerusform>%n aktivních spojení do radium sítě</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -534,7 +534,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Žádný staking protože nemáš žádné odležené mince.</translation>
     </message>
     <message>
-        <location line="-808"/>
+        <location line="-812"/>
         <source>&amp;Dashboard</source>
         <translation type="unfinished"/>
     </message>
@@ -554,7 +554,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Odemkni peněženku</translation>
     </message>
     <message>
-        <location line="+273"/>
+        <location line="+277"/>
         <source>Up to date</source>
         <translation>Aktuální</translation>
     </message>
@@ -600,8 +600,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Radium address or malformed URI parameters.</source>
-        <translation>URI nejde rozparsovat! To může být způsobeno neplatnou Radium adresou nebo chybnými URI parametry.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid radium address or malformed URI parameters.</source>
+        <translation>URI nejde rozparsovat! To může být způsobeno neplatnou radium adresou nebo chybnými URI parametry.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Radium can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažné chybě. Radium již nemůže dále bezpečně pokračovat a bude ukončen.</translation>
+        <source>A fatal error occurred. radium can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažné chybě. radium již nemůže dále bezpečně pokračovat a bude ukončen.</translation>
     </message>
 </context>
 <context>
@@ -773,7 +773,7 @@ Adresa: %4
         <translation>Nízký Výstup:</translation>
     </message>
     <message>
-        <location filename="../coincontroldialog.cpp" line="+552"/>
+        <location filename="../coincontroldialog.cpp" line="+537"/>
         <source>no</source>
         <translation>ne</translation>
     </message>
@@ -838,7 +838,7 @@ Adresa: %4
         <translation>Priorita</translation>
     </message>
     <message>
-        <location filename="../coincontroldialog.cpp" line="-515"/>
+        <location filename="../coincontroldialog.cpp" line="-500"/>
         <source>Copy address</source>
         <translation>Zkopíruj adresu</translation>
     </message>
@@ -929,7 +929,7 @@ Adresa: %4
         <translation>nejnižší</translation>
     </message>
     <message>
-        <location line="+155"/>
+        <location line="+140"/>
         <source>DUST</source>
         <translation>PRACH</translation>
     </message>
@@ -1057,8 +1057,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Radium address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Radium adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid radium address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná radium adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Radium-Qt</source>
-        <translation>Radium-Qt</translation>
+        <source>radium-Qt</source>
+        <translation>radium-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Radium after logging in to the system.</source>
-        <translation>Automaticky spustit Radium po přihlášení do systému.</translation>
+        <source>Automatically start radium after logging in to the system.</source>
+        <translation>Automaticky spustit radium po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Radium on system login</source>
-        <translation>&amp;Spustit Radium při přihlášení do systému</translation>
+        <source>&amp;Start radium on system login</source>
+        <translation>&amp;Spustit radium při přihlášení do systému</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Radium client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otevřít port Radium klienta na routeru. Funguje to jen tehdy, když router podporuje UPnP a je povoleno.</translation>
+        <source>Automatically open the radium client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otevřít port radium klienta na routeru. Funguje to jen tehdy, když router podporuje UPnP a je povoleno.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1173,17 +1173,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <translation>Namapovat port přes &amp;UPnP</translation>
     </message>
     <message>
-        <location line="+7"/>
-        <source>Connect to the Radium network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Připoj se do sítě Radium přes SOCKS proxy (např. při připojení přes Tor)</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>&amp;Connect through SOCKS proxy:</source>
-        <translation>&amp;Připoj se přes SOCKS proxy:</translation>
-    </message>
-    <message>
-        <location line="+9"/>
+        <location line="+19"/>
         <source>Proxy &amp;IP:</source>
         <translation>&amp;IP adresa proxy:</translation>
     </message>
@@ -1203,17 +1193,17 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <translation>Port proxy (např. 9050)</translation>
     </message>
     <message>
-        <location line="+7"/>
-        <source>SOCKS &amp;Version:</source>
-        <translation>&amp;Verze SOCKS:</translation>
+        <location line="-57"/>
+        <source>Connect to the radium network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location line="+13"/>
-        <source>SOCKS version of the proxy (e.g. 5)</source>
-        <translation>Verze SOCKS proxy (např. 5)</translation>
+        <location line="+3"/>
+        <source>&amp;Connect through SOCKS5 proxy:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location line="+36"/>
+        <location line="+90"/>
         <source>&amp;Window</source>
         <translation>&amp;Okno</translation>
     </message>
@@ -1249,8 +1239,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Radium.</source>
-        <translation>Zde můžeš nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartu Radiumu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting radium.</source>
+        <translation>Zde můžeš nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartu radiumu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1303,12 +1293,12 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <translation>&amp;Použit</translation>
     </message>
     <message>
-        <location filename="../optionsdialog.cpp" line="+53"/>
+        <location filename="../optionsdialog.cpp" line="+47"/>
         <source>default</source>
         <translation>výchozí</translation>
     </message>
     <message>
-        <location line="+149"/>
+        <location line="+148"/>
         <location line="+9"/>
         <source>Warning</source>
         <translation>Upozornění</translation>
@@ -1316,8 +1306,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Radium.</source>
-        <translation>Nastavení se projeví až po restartu Radiumu.</translation>
+        <source>This setting will take effect after restarting radium.</source>
+        <translation>Nastavení se projeví až po restartu radiumu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1325,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Radium network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace můžou být zastaralé. Tvá peněženka se automaticky synchronizuje s Radium sítí po navázaní spojení, ale tento proces ještě není dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the radium network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace můžou být zastaralé. Tvá peněženka se automaticky synchronizuje s radium sítí po navázaní spojení, ale tento proces ještě není dokončený.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1409,7 +1399,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Radium: click-to-pay handler</source>
+        <source>Cannot start radium: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1577,8 +1567,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Radium-Qt help message to get a list with possible Radium command-line options.</source>
-        <translation>Zobrazit Radium-Qt nápovědu pro zobrazení seznam dostupným možností příkazového řádku.</translation>
+        <source>Show the radium-Qt help message to get a list with possible radium command-line options.</source>
+        <translation>Zobrazit radium-Qt nápovědu pro zobrazení seznam dostupným možností příkazového řádku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1587,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Radium - Debug window</source>
-        <translation>Radium - Ladící okno</translation>
+        <source>radium - Debug window</source>
+        <translation>radium - Ladící okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Radium Core</source>
-        <translation>Jádro Radiumu</translation>
+        <source>radium Core</source>
+        <translation>Jádro radiumu</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1602,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Radium debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři logovací soubor Radiumu z aktuálního datového adresáře. Pro velké logy to může trvat několik sekund.</translation>
+        <source>Open the radium debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři logovací soubor radiumu z aktuálního datového adresáře. Pro velké logy to může trvat několik sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1612,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Radium RPC console.</source>
-        <translation>Vítej v Radium RPC konzoli.</translation>
+        <source>Welcome to the radium RPC console.</source>
+        <translation>Vítej v radium RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1675,7 +1665,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <name>SendCoinsDialog</name>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="+14"/>
-        <location filename="../sendcoinsdialog.cpp" line="+181"/>
+        <location filename="../sendcoinsdialog.cpp" line="+182"/>
         <location line="+5"/>
         <location line="+5"/>
         <location line="+5"/>
@@ -1727,15 +1717,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <translation>Částka:</translation>
     </message>
     <message>
-        <location line="+22"/>
-        <location line="+86"/>
-        <location line="+86"/>
-        <location line="+32"/>
-        <source>0.00 XRDN</source>
-        <translation>123.456 XRDN {0.00 ?}</translation>
-    </message>
-    <message>
-        <location line="-191"/>
+        <location line="+35"/>
         <source>Priority:</source>
         <translation>Priorita:</translation>
     </message>
@@ -1800,12 +1782,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <translation>Stav účtu:</translation>
     </message>
     <message>
-        <location line="+16"/>
-        <source>123.456 XRDN</source>
-        <translation>123.456 XRDN</translation>
-    </message>
-    <message>
-        <location line="+31"/>
+        <location line="+47"/>
         <source>Confirm the send action</source>
         <translation>Potvrď odeslání</translation>
     </message>
@@ -1815,9 +1792,9 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <translation>P&amp;ošli</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Napiš Radium adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <location filename="../sendcoinsdialog.cpp" line="-174"/>
+        <source>Enter a radium address (e.g. X8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Napiš radium adresu (např. X8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1860,7 +1837,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <translation>Zkopíruj změnu</translation>
     </message>
     <message>
-        <location line="+86"/>
+        <location line="+87"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; na %2 (%3)</translation>
     </message>
@@ -1916,8 +1893,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Radium address</source>
-        <translation>UPOZORNĚNÍ: Neplatná Radium adresa</translation>
+        <source>WARNING: Invalid radium address</source>
+        <translation>UPOZORNĚNÍ: Neplatná radium adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1949,7 +1926,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to send the payment to (e.g. X8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1990,8 +1967,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadej Radium adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a radium address (e.g. X8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadej radium adresu (např. X8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2014,8 +1991,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa pro podepsání zprávy (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. X8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Adresa pro podepsání zprávy (např. X8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2051,8 +2028,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Radium address</source>
-        <translation>Podepiš zprávu jako důkaz, že vlastníš tuto Radium adresu</translation>
+        <source>Sign the message to prove you own this radium address</source>
+        <translation>Podepiš zprávu jako důkaz, že vlastníš tuto radium adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2078,13 +2055,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa kterou byla zpráva podepsána (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. X8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Adresa kterou byla zpráva podepsána (např. X8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Radium address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Radium adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified radium address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou radium adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2071,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Radium address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadej Radium adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a radium address (e.g. X8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadej radium adresu (např. X8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,11 +2081,11 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Radium signature</source>
-        <translation>Zadej Radium podpis</translation>
+        <source>Enter radium signature</source>
+        <translation>Zadej radium podpis</translation>
     </message>
     <message>
-        <location line="+82"/>
+        <location line="+85"/>
         <location line="+81"/>
         <source>The entered address is invalid.</source>
         <translation>Zadaná adresa je neplatná.</translation>
@@ -2236,19 +2213,19 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+5"/>
-        <location line="+17"/>
+        <location line="+13"/>
         <source>From</source>
         <translation>Od</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location line="+22"/>
+        <location line="+19"/>
         <location line="+58"/>
         <source>To</source>
         <translation>Pro</translation>
     </message>
     <message>
-        <location line="-77"/>
+        <location line="-74"/>
         <location line="+2"/>
         <source>own address</source>
         <translation>vlastní adresa</translation>
@@ -2259,7 +2236,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <translation>označení</translation>
     </message>
     <message>
-        <location line="+37"/>
+        <location line="+34"/>
         <location line="+12"/>
         <location line="+45"/>
         <location line="+17"/>
@@ -2346,7 +2323,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <translation>false</translation>
     </message>
     <message>
-        <location line="-209"/>
+        <location line="-202"/>
         <source>, has not been successfully broadcast yet</source>
         <translation>, ještě nebylo rozesláno</translation>
     </message>
@@ -2356,7 +2333,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location line="+71"/>
+        <location line="+67"/>
         <source>unknown</source>
         <translation>neznámo</translation>
     </message>
@@ -2674,7 +2651,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
 <context>
     <name>WalletModel</name>
     <message>
-        <location filename="../walletmodel.cpp" line="+208"/>
+        <location filename="../walletmodel.cpp" line="+212"/>
         <source>Sending...</source>
         <translation>Odesílám...</translation>
     </message>
@@ -2682,9 +2659,9 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
 <context>
     <name>bitcoin-core</name>
     <message>
-        <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Radium version</source>
-        <translation>Verze Radiumu</translation>
+        <location filename="../bitcoinstrings.cpp" line="+171"/>
+        <source>radium version</source>
+        <translation>Verze radiumu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2693,8 +2670,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Radiumd</source>
-        <translation>Pošli příkaz na -server nebo Radiumd</translation>
+        <source>Send command to -server or radiumd</source>
+        <translation>Pošli příkaz na -server nebo radiumd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2707,19 +2684,19 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <translation>Získat nápovědu pro příkaz</translation>
     </message>
     <message>
-        <location line="-147"/>
+        <location line="-145"/>
         <source>Options:</source>
         <translation>Možnosti:</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Radium.conf)</source>
-        <translation>Urči konfigurační soubor (výchozí: Radium.conf)</translation>
+        <source>Specify configuration file (default: radium.conf)</source>
+        <translation>Urči konfigurační soubor (výchozí: radium.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Radiumd.pid)</source>
-        <translation>Urči pid soubor (výchozí: Radiumd.pid)</translation>
+        <source>Specify pid file (default: radiumd.pid)</source>
+        <translation>Urči pid soubor (výchozí: radiumd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2736,13 +2713,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Radiumrpc
+rpcuser=radiumrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;radium Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2757,9 +2734,9 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Nastav velikost databázového logu na disku (výchozí: 100)</translation>
     </message>
     <message>
-        <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 27913 or testnet: 27991)</source>
-        <translation>Naslouchej připojením na &lt;port&gt; (výchozí: 27913 nebo testovací síť: 27991)</translation>
+        <location line="+5"/>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Naslouchej připojením na &lt;port&gt; (výchozí: 15714 nebo testovací síť: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2792,7 +2769,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation type="unfinished"/>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+4"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
         <translation>Práh pro odpojování zlobivých uzlů (výchozí: 100)</translation>
     </message>
@@ -2802,17 +2779,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Doba ve vteřinách, po kterou se nebudou moci zlobivé uzly znovu připojit (výchozí: 86400)</translation>
     </message>
     <message>
-        <location line="-37"/>
+        <location line="-35"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
         <translation>Při nastavování naslouchacího RPC portu %i pro IPv4 nastala chyba: %s</translation>
     </message>
     <message>
-        <location line="+65"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 27914 or testnet: 27992)</source>
-        <translation>Naslouchej JSON-RPC připojením na &lt;port&gt; (výchozí: 27914 nebo testovací síť: 27992)</translation>
+        <location line="+62"/>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <translation>Naslouchej JSON-RPC připojením na &lt;port&gt; (výchozí: 15715 nebo testovací síť: 25715)</translation>
     </message>
     <message>
-        <location line="-17"/>
+        <location line="-16"/>
         <source>Accept command line and JSON-RPC commands</source>
         <translation>Akceptovat příkazy z příkazové řádky a přes JSON-RPC</translation>
     </message>
@@ -2827,42 +2804,42 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Použít testovací síť (testnet)</translation>
     </message>
     <message>
-        <location line="-24"/>
+        <location line="-23"/>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
         <translation>Přijímat spojení zvenčí (výchozí: 1, pokud není zadáno -proxy nebo -connect)</translation>
     </message>
     <message>
-        <location line="-29"/>
+        <location line="-28"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
         <translation>Při nastavování naslouchacího RPC portu %u pro IPv6 nastala chyba, vracím se k IPv4: %s</translation>
     </message>
     <message>
-        <location line="+96"/>
+        <location line="+93"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
         <translation>Nastav maximální velikost high-priority/low-fee transakcí v bajtech (výchozí: 27000)</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+15"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
         <translation>Upozornění: -paytxfee je nastaveno velmi vysoko! Toto je transakční poplatek, který zaplatíš za každou poslanou transakci.</translation>
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Radium will not work properly.</source>
-        <translation>Upozornění: Zkontroluj prosím datum a čas tvého počítače! Pokud jdou tvé hodiny špatně, tak Radium nebude pracovat správně. </translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong radium will not work properly.</source>
+        <translation>Upozornění: Zkontroluj prosím datum a čas tvého počítače! Pokud jdou tvé hodiny špatně, tak radium nebude pracovat správně. </translation>
     </message>
     <message>
-        <location line="+132"/>
+        <location line="+130"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
         <translation>Upozornění: nastala chyba při čtení souboru wallet.dat! Všechny klíče se přečetly správně, ale data o transakcích nebo záznamy v adresáři mohou chybět či být nesprávné.</translation>
     </message>
     <message>
-        <location line="-18"/>
+        <location line="-16"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
         <translation>Upozornění: soubor wallet.dat je poškozený, data jsou však zachráněna! Původní soubor wallet.dat je uložený jako wallet.{timestamp}.bak v %s. Pokud je stav tvého účtu nebo transakce nesprávné, zřejmě bys měl obnovit zálohu.</translation>
     </message>
     <message>
-        <location line="-31"/>
+        <location line="-34"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
         <translation>Pokusit se zachránit soukromé klíče z poškozeného souboru wallet.dat</translation>
     </message>
@@ -2872,7 +2849,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Možnosti vytvoření bloku:</translation>
     </message>
     <message>
-        <location line="-69"/>
+        <location line="-67"/>
         <source>Connect only to the specified node(s)</source>
         <translation>Připojit se pouze k zadanému uzlu (příp. zadaným uzlům)</translation>
     </message>
@@ -2887,12 +2864,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Nepodařilo se naslouchat na žádném portu. Použij -listen=0, pokud to byl tvůj záměr.</translation>
     </message>
     <message>
-        <location line="-91"/>
-        <source>Sync checkpoints policy (default: strict)</source>
-        <translation>Synchronizuj politiku kontrolních bodů (výchozí: přísný)</translation>
-    </message>
-    <message>
-        <location line="+89"/>
+        <location line="-2"/>
         <source>Invalid -tor address: &apos;%s&apos;</source>
         <translation>Neplatná -tor adresa: &apos;%s&apos;</translation>
     </message>
@@ -2902,7 +2874,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Neplatná částka pro -reservebalance=&lt;amount&gt;</translation>
     </message>
     <message>
-        <location line="-88"/>
+        <location line="-89"/>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
         <translation>Maximální velikost přijímacího bufferu pro každé spojení, &lt;n&gt;*1000 bajtů (výchozí: 5000)</translation>
     </message>
@@ -2912,37 +2884,27 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Maximální velikost odesílacího bufferu pro každé spojení, &lt;n&gt;*1000 bajtů (výchozí: 1000)</translation>
     </message>
     <message>
-        <location line="-17"/>
+        <location line="-16"/>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
         <translation>Připojit se pouze k uzlům v &lt;net&gt; síti (IPv4, IPv6 nebo Tor)</translation>
     </message>
     <message>
-        <location line="+31"/>
+        <location line="+30"/>
         <source>Prepend debug output with timestamp</source>
         <translation>Před ladící výstup přidej časové razítko</translation>
     </message>
     <message>
-        <location line="+41"/>
+        <location line="+40"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
         <translation>Možnosti SSL: (viz instrukce nastavení SSL v Bitcoin Wiki)</translation>
     </message>
     <message>
-        <location line="-81"/>
-        <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation>Vyber verzi SOCKS proxy, která se bude používat (4-5, výchozí: 5)</translation>
-    </message>
-    <message>
-        <location line="+42"/>
+        <location line="-38"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
         <translation>Posílat stopovací/ladicí informace do konzole místo do souboru debug.log</translation>
     </message>
     <message>
-        <location line="+5"/>
-        <source>Send trace/debug info to debugger</source>
-        <translation>Odešli trasovací/ladicí informace do debuggera</translation>
-    </message>
-    <message>
-        <location line="+30"/>
+        <location line="+34"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
         <translation>Nastav maximální velikost bloku v bajtech (výchozí: 250000)</translation>
     </message>
@@ -2952,24 +2914,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Nastavit minimální velikost bloku v bajtech (výchozí: 0)</translation>
     </message>
     <message>
-        <location line="-35"/>
+        <location line="-34"/>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
         <translation>Při spuštění klienta zmenšit soubor debug.log (výchozí: 1, pokud není zadáno -debug)</translation>
     </message>
     <message>
-        <location line="-43"/>
+        <location line="-41"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
         <translation>Zadej časový limit spojení v milisekundách (výchozí: 5000)</translation>
     </message>
     <message>
-        <location line="+116"/>
-        <source>Unable to sign checkpoint, wrong checkpointkey?
-</source>
-        <translation>Není možné podepsat kontrolní bod, špatný kontrolní bod?
-</translation>
-    </message>
-    <message>
-        <location line="-86"/>
+        <location line="+28"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
         <translation>Použít UPnP k namapování naslouchacího portu (výchozí: 0)</translation>
     </message>
@@ -2979,22 +2934,22 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Použít UPnP k namapování naslouchacího portu (výchozí: 1, pokud naslouchá)</translation>
     </message>
     <message>
-        <location line="-26"/>
+        <location line="-25"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
         <translation>Použij proxy k dosažení skrytých Tor služeb (výchozí: stejné jako -proxy)</translation>
     </message>
     <message>
-        <location line="+47"/>
+        <location line="+45"/>
         <source>Username for JSON-RPC connections</source>
         <translation>Uživatelské jméno pro JSON-RPC spojení</translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+54"/>
         <source>Verifying database integrity...</source>
         <translation>Ověřování integrity databáze...</translation>
     </message>
     <message>
-        <location line="+44"/>
+        <location line="+42"/>
         <source>Error: Wallet locked, unable to create transaction!</source>
         <translation type="unfinished"/>
     </message>
@@ -3024,32 +2979,32 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation type="unfinished"/>
     </message>
     <message>
-        <location line="+2"/>
-        <source>WARNING: syncronized checkpoint violation detected, but skipped!</source>
-        <translation>UPOZORNĚNÍ: detekováno porušení synchronizovaného kontrolního bodu, ale bylo to přeskočeno!</translation>
-    </message>
-    <message>
-        <location line="-1"/>
+        <location line="+1"/>
         <source>Warning: This version is obsolete, upgrade required!</source>
         <translation>Upozornění: tahle verze je zastaralá, měl bys ji aktualizovat!</translation>
     </message>
     <message>
-        <location line="-54"/>
+        <location line="-52"/>
         <source>wallet.dat corrupt, salvage failed</source>
         <translation>Soubor wallet.dat je poškozen, jeho záchrana se nezdařila</translation>
     </message>
     <message>
-        <location line="-56"/>
+        <location line="-59"/>
         <source>Password for JSON-RPC connections</source>
         <translation>Heslo pro JSON-RPC spojení</translation>
     </message>
     <message>
-        <location line="-32"/>
+        <location line="-47"/>
+        <source>Connect through SOCKS5 proxy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location line="+17"/>
         <source>Sync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)</source>
         <translation>Synchronizuj čas s ostatními uzly, Vypni, pokud máš v systému přesný čas, např. synchronizací pomocí NTP (výchozí: 1)</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+12"/>
         <source>When creating transactions, ignore inputs with value less than this (default: 0.01)</source>
         <translation>Při vytváření transakci ignoruj vstupy s hodnotou menší než tato (výchozí: 0.01)</translation>
     </message>
@@ -3074,7 +3029,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation type="unfinished"/>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+8"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
         <translation>Povolit JSON-RPC spojení ze specifikované IP adresy</translation>
     </message>
@@ -3139,7 +3094,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Importuj bloky z externího blk000?.dat souboru</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+1"/>
+        <source>Keep at most &lt;n&gt; MiB of unconnectable blocks in memory (default: %u)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location line="+8"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
         <translation>Použít OpenSSL (https) pro JSON-RPC spojení</translation>
     </message>
@@ -3154,17 +3114,27 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Soubor se serverovým soukromým klíčem (výchozí: server.pem)</translation>
     </message>
     <message>
-        <location line="+10"/>
-        <source>Initialization sanity check failed. Radium is shutting down.</source>
+        <location line="+5"/>
+        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn&apos;t possible anymore, only SOCKS5 proxies are supported.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location line="+50"/>
+        <location line="+8"/>
+        <source>Initialization sanity check failed. radium is shutting down.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Error loading block database</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location line="+28"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
         <translation>Chyba: Peněženka odemčena pouze pro stakování, není možné vytvářet transakce.</translation>
     </message>
     <message>
-        <location line="+17"/>
+        <location line="+16"/>
         <source>Error: Disk space is low!</source>
         <translation type="unfinished"/>
     </message>
@@ -3174,12 +3144,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation type="unfinished"/>
     </message>
     <message>
-        <location line="+3"/>
-        <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
-        <translation>UPOZORNĚNÍ: Nalezen neplatný kontrolní bod! Zobrazené transakce nemusí být správné! Možná budeš muset provést aktualizaci, nebo kontaktovat vývojáře.</translation>
-    </message>
-    <message>
-        <location line="-174"/>
+        <location line="-168"/>
         <source>This help message</source>
         <translation>Tato nápověda</translation>
     </message>
@@ -3189,44 +3154,34 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Peněženka %s je umístěna mimo datový adresář %s.</translation>
     </message>
     <message>
-        <location line="+37"/>
+        <location line="+35"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
         <translation>Nedaří se mi připojit na %s na tomhle počítači (operace bind vrátila chybu %d, %s)</translation>
     </message>
     <message>
-        <location line="-133"/>
-        <source>Connect through socks proxy</source>
-        <translation>Připoj se přes SOCKS proxy</translation>
-    </message>
-    <message>
-        <location line="+3"/>
+        <location line="-129"/>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
         <translation>Povolit DNS dotazy pro -addnode (přidání uzlu), -seednode a -connect (připojení)</translation>
     </message>
     <message>
-        <location line="+126"/>
+        <location line="+125"/>
         <source>Loading addresses...</source>
         <translation>Načítám adresy...</translation>
     </message>
     <message>
-        <location line="-12"/>
-        <source>Error loading blkindex.dat</source>
-        <translation>Chyba načítání blkindex.dat</translation>
-    </message>
-    <message>
-        <location line="+2"/>
+        <location line="-10"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
         <translation>Chyba při načítání wallet.dat: peněženka je poškozená</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Radium</source>
-        <translation>Chyba načítání wallet.dat: Peněženka vyžaduje novější verzi Radiumu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of radium</source>
+        <translation>Chyba načítání wallet.dat: Peněženka vyžaduje novější verzi radiumu</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Radium to complete</source>
-        <translation>Peněženka by potřebovala být přepsána: restartuj Radium pro dokončení</translation>
+        <source>Wallet needed to be rewritten: restart radium to complete</source>
+        <translation>Peněženka by potřebovala být přepsána: restartuj radium pro dokončení</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3234,7 +3189,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Chyba při načítání wallet.dat</translation>
     </message>
     <message>
-        <location line="-16"/>
+        <location line="-15"/>
         <source>Invalid -proxy address: &apos;%s&apos;</source>
         <translation>Neplatná -proxy adresa: &apos;%s&apos;</translation>
     </message>
@@ -3244,12 +3199,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>V -onlynet byla uvedena neznámá síť: &apos;%s&apos;</translation>
     </message>
     <message>
-        <location line="-1"/>
-        <source>Unknown -socks proxy version requested: %i</source>
-        <translation>V -socks byla požadována neznámá verze proxy: %i</translation>
-    </message>
-    <message>
-        <location line="+4"/>
+        <location line="+3"/>
         <source>Cannot resolve -bind address: &apos;%s&apos;</source>
         <translation>Nemohu přeložit -bind adresu: &apos;%s&apos;</translation>
     </message>
@@ -3259,12 +3209,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Nemohu přeložit -externalip adresu: &apos;%s&apos;</translation>
     </message>
     <message>
-        <location line="-23"/>
+        <location line="-22"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
         <translation>Neplatná částka pro -paytxfee=&lt;částka&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
-        <location line="+60"/>
+        <location line="+58"/>
         <source>Sending...</source>
         <translation>Odesílám...</translation>
     </message>
@@ -3284,14 +3234,14 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Načítám index bloků...</translation>
     </message>
     <message>
-        <location line="-110"/>
+        <location line="-109"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
         <translation>Přidat uzel, ke kterému se připojit a snažit se spojení udržet</translation>
     </message>
     <message>
-        <location line="+125"/>
-        <source>Unable to bind to %s on this computer. Radium is probably already running.</source>
-        <translation>Nemůžu se svázat s %s na tomto počítači. Radium nejspíše již běží.</translation>
+        <location line="+124"/>
+        <source>Unable to bind to %s on this computer. radium is probably already running.</source>
+        <translation>Nemůžu se svázat s %s na tomto počítači. radium nejspíše již běží.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3299,7 +3249,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Přidej poplatek za KB do transakcí, které odesíláš</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+33"/>
         <source>Minimize weight consumption (experimental) (default: 0)</source>
         <translation type="unfinished"/>
     </message>
@@ -3309,12 +3259,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation type="unfinished"/>
     </message>
     <message>
-        <location line="+3"/>
-        <source>Keep at most &lt;n&gt; unconnectable blocks in memory (default: %u)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location line="+11"/>
+        <location line="+14"/>
         <source>Acceptable ciphers (default: TLSv1.2+HIGH:TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH)</source>
         <translation type="unfinished"/>
     </message>
@@ -3324,13 +3269,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation type="unfinished"/>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+8"/>
         <source>Invalid amount for -mininput=&lt;amount&gt;: &apos;%s&apos;</source>
         <translation>Neplatné množství pro -mininput=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Radium is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. radium is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3339,7 +3284,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation type="unfinished"/>
     </message>
     <message>
-        <location line="+17"/>
+        <location line="+15"/>
         <source>Loading wallet...</source>
         <translation>Načítám peněženku...</translation>
     </message>
@@ -3364,12 +3309,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Radium Alert&quot; admin@foo.c
         <translation>Načítání dokončeno</translation>
     </message>
     <message>
-        <location line="-161"/>
+        <location line="-159"/>
         <source>To use the %s option</source>
         <translation>K použití volby %s</translation>
     </message>
     <message>
-        <location line="+188"/>
+        <location line="+186"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>

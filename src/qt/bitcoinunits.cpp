@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("RADS");
-    case mBTC: return QString("Milli-RADS (1 / 1,000)");
-    case uBTC: return QString("Micro-RADS (1 / 1,000,000)");
+    case BTC: return QString("radiums");
+    case mBTC: return QString("Milli-radiums (1 / 1,000)");
+    case uBTC: return QString("Micro-radiums (1 / 1,000,000)");
     default: return QString("???");
     }
 }

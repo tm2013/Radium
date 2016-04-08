@@ -13,11 +13,6 @@
 
 using namespace boost::assign;
 
-unsigned int pnSeed[] =
-{
-0x026422c3
-};
-
 struct SeedSpec6 {
     uint8_t addr[16];
     uint16_t port;
@@ -91,32 +86,20 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0xa02b3388d9e8529bb0136ed3e1b823e808cbe128050e5986bf2a5a0d2c71a826"));
 
         vSeeds.push_back(CDNSSeedData("194.135.82.244", "194.135.82.244"));
+        vSeeds.push_back(CDNSSeedData("useast.projectradium.org", "useast.projectradium.org"));
+        vSeeds.push_back(CDNSSeedData("asia.projectradium.org", "asia.projectradium.org"));
+        vSeeds.push_back(CDNSSeedData("eu.projectradium.org", "eu.projectradium.org"));
 
 
-        base58Prefixes[PUBKEY_ADDRESS] = list_of(76);
-        base58Prefixes[SCRIPT_ADDRESS] = list_of(58);
-        base58Prefixes[SECRET_KEY] =     list_of(121);
-        base58Prefixes[EXT_PUBLIC_KEY] = list_of(0x04)(0x73)(0xAA)(0xA1);
-        base58Prefixes[EXT_SECRET_KEY] = list_of(0x04)(0x73)(0x44)(0x77);
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,76);
+        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,58);
+        base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,121);
+        base58Prefixes[EXT_PUBLIC_KEY] = boost::assign::list_of(0x04)(0x73)(0xAA)(0xA1).convert_to_container<std::vector<unsigned char> >();
+        base58Prefixes[EXT_SECRET_KEY] = boost::assign::list_of(0x04)(0x73)(0x44)(0x77).convert_to_container<std::vector<unsigned char> >();
 
         convertSeed6(vFixedSeeds, pnSeed6_main, ARRAYLEN(pnSeed6_main));
 
         nLastPOWBlock = 20160;
-		
-		// Convert the pnSeeds array into usable address objects.
-        for (unsigned int i = 0; i < ARRAYLEN(pnSeed); i++)
-        {
-            // It'll only connect to one or two seed nodes because once it connects,
-            // it'll get a pile of addresses with newer timestamps.
-            // Seed nodes are given a random 'last seen time' of between one and two
-            // weeks ago.
-            const int64_t nOneWeek = 7*24*60*60;
-            struct in_addr ip;
-            memcpy(&ip, &pnSeed[i], sizeof(ip));
-            CAddress addr(CService(ip, GetDefaultPort()));
-            addr.nTime = GetTime() - GetRand(nOneWeek) - nOneWeek;
-            vFixedSeeds.push_back(addr);
-        }
     }
 
     virtual const CBlock& GenesisBlock() const { return genesis; }
@@ -161,11 +144,11 @@ public:
         vFixedSeeds.clear();
         vSeeds.clear();
 
-        base58Prefixes[PUBKEY_ADDRESS] = list_of(110);
-        base58Prefixes[SCRIPT_ADDRESS] = list_of(129);
-        base58Prefixes[SECRET_KEY]     = list_of(239);
-        base58Prefixes[EXT_PUBLIC_KEY] = list_of(0x04)(0x35)(0x17)(0xFF);
-        base58Prefixes[EXT_SECRET_KEY] = list_of(0x04)(0x35)(0x43)(0x99);
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,110);
+        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,129);
+        base58Prefixes[SECRET_KEY]     = std::vector<unsigned char>(1,239);
+        base58Prefixes[EXT_PUBLIC_KEY] = boost::assign::list_of(0x04)(0x35)(0x17)(0xFF).convert_to_container<std::vector<unsigned char> >();
+        base58Prefixes[EXT_SECRET_KEY] = boost::assign::list_of(0x04)(0x35)(0x43)(0x99).convert_to_container<std::vector<unsigned char> >();
 
         convertSeed6(vFixedSeeds, pnSeed6_test, ARRAYLEN(pnSeed6_test));
 

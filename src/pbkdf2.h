@@ -1,4 +1,4 @@
-// Copyright (c) 2015-2016 Project Radon
+// Copyright (c) 2013 NovaCoin Developers
 
 #ifndef PBKDF2_H
 #define PBKDF2_H

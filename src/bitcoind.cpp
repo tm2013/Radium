@@ -50,12 +50,12 @@ bool AppInit(int argc, char* argv[])
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
             // First part of help message is specific to bitcoind / RPC client
-            std::string strUsage = _("Radium version") + " " + FormatFullVersion() + "\n\n" +
+            std::string strUsage = _("radium version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  Radiumd [options]                     " + "\n" +
-                  "  Radiumd [options] <command> [params]  " + _("Send command to -server or Radiumd") + "\n" +
-                  "  Radiumd [options] help                " + _("List commands") + "\n" +
-                  "  Radiumd [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  radiumd [options]                     " + "\n" +
+                  "  radiumd [options] <command> [params]  " + _("Send command to -server or radiumd") + "\n" +
+                  "  radiumd [options] help                " + _("List commands") + "\n" +
+                  "  radiumd [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -65,7 +65,7 @@ bool AppInit(int argc, char* argv[])
 
         // Command-line RPC
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "Radium:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "radium:"))
                 fCommandLine = true;
 
         if (fCommandLine)

@@ -1,4 +1,4 @@
-Source: Radium
+Source: radium
 Section: utils
 Priority: optional
 Maintainer: Jonas Smedegaard <dr@jones.dk>
@@ -19,11 +19,11 @@ Build-Depends: debhelper,
  libqt4-dev,
  libqrencode-dev
 Standards-Version: 3.9.2
-Homepage: http://www.Radium.co/
-Vcs-Git: git://github.com/rat4/Radium.git
-Vcs-Browser: http://github.com/rat4/Radium
+Homepage: http://www.radium.co/
+Vcs-Git: git://github.com/tm2013/Radium.git
+Vcs-Browser: http://github.com/tm2013/Radium
 
-Package: Radiumd
+Package: radiumd
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - daemon
@@ -38,10 +38,10 @@ Description: peer-to-peer network based digital currency - daemon
  Full transaction history is stored locally at each client.  This
  requires 2+ GB of space, slowly growing.
  .
- This package provides Radiumd, a combined daemon and CLI tool to
+ This package provides radiumd, a combined daemon and CLI tool to
  interact with the daemon.
 
-Package: Radium-qt
+Package: radium-qt
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - Qt GUI
@@ -56,4 +56,4 @@ Description: peer-to-peer network based digital currency - Qt GUI
  Full transaction history is stored locally at each client.  This
  requires 2+ GB of space, slowly growing.
  .
- This package provides Radium-Qt, a GUI for Radium based on Qt.
+ This package provides radium-Qt, a GUI for radium based on Qt.

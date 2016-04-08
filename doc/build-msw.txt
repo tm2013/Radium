@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building Radium QT, the
+See readme-qt.rst for instructions on building radium QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,9 +76,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-Radium
+radium
 -------
 DOS prompt:
-cd \Radium\src
+cd \radium\src
 mingw32-make -f makefile.mingw
-strip Radiumd.exe
+strip radiumd.exe

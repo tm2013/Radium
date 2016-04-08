@@ -186,12 +186,12 @@ public:
     {
         return SerializeHash(*this);
     }
-	
-	bool IsUnspendable() const
-	{
-		return IsEmpty() ||
-			   (scriptPubKey.size() > 0 && *scriptPubKey.begin() == OP_RETURN);
-	}
+
+    bool IsUnspendable() const
+    {
+        return IsEmpty() ||
+               (scriptPubKey.size() > 0 && *scriptPubKey.begin() == OP_RETURN);
+    }
 
     friend bool operator==(const CTxOut& a, const CTxOut& b)
     {
