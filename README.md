@@ -3,7 +3,7 @@ Radium is a proof of stake cryptocurrency, forming the backbone of Radon SmartCh
 
 Development Schedule
 ===========================
-Development is primarily focused on Radon SmartChain services. Periodic maintence updates will be made to this repository.
+Development is primarily focused on Radium SmartChain services. Periodic maintence updates will be made to this repository.
 
 Resources
 ===========================
@@ -15,11 +15,7 @@ Block Explorer 2: http://chain.blockpioneers.info/radium/index.php
 
 Radium ANN: https://bitcointalk.org/index.php?topic=1333026.0
 
-Radon SmartChain ANN: https://bitcointalk.org/index.php?topic=1322856.0
-
-Windows client: http://www.projectradium.org/downloads/Radium-qt.exe
-
-Mac client: http://projectradium.org/downloads/Radium-Qt-v1.2.0.1-MacOSX.dmg
+See our releases for Windows, Mac, and Linux client downloads.
 
 Development process
 ===========================
