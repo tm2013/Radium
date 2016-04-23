@@ -59,6 +59,7 @@
 #include <QStyle>
 
 #include <iostream>
+#include <math.h>
 
 extern CWallet* pwalletMain;
 extern int64_t nLastCoinStakeSearchInterval;
@@ -1005,8 +1006,9 @@ void BitcoinGUI::updateStakingIcon()
     {
         uint64_t nWeight = this->nWeight;
         uint64_t nNetworkWeight = GetPoSKernelPS();
-        unsigned nEstimateTime = GetTargetSpacing(nBestHeight) * nNetworkWeight / nWeight;
-
+        //unsigned nEstimateTime = GetTargetSpacing(nBestHeight) * nNetworkWeight / nWeight;
+        unsigned nEstimateTime = -(log(4) / log(1 - (float)nWeight / nNetworkWeight)) * GetTargetSpacing(nBestHeight);
+        
         QString text;
         if (nEstimateTime < 60)
         {
